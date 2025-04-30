@@ -1,5 +1,6 @@
 # Amazon-sales-data-report-across-regions
-This project is focused on anAnalytical report on the product sales of Amazon 
+This project is focused on an Analytical report on the product sales of Amazon 
+![DASHBOARD 3](https://github.com/user-attachments/assets/6ef42261-22f8-442c-b112-892193984710)
 
 The sole aim of any multinational company or any business outfit to generate more returns across all sectors of their establishments. AMAZON here been a multinational company with access to different geographical locations continentally with one their business speciality, E-commerce businesses isn't an exception.
 As a Data Analyst Intern currently studying at Vephla University,this project will enable me understand what it takes to proffer actionable insights for stakeholders in the Amazon community.
@@ -27,7 +28,7 @@ RECOMMENDATIONS
 
 -Conduct an informative seminar in locations performing poorly for sales managers and operations manager in other to proffer strategic solutions on how to market their products and boost income 
 
--More Amazon offices should be created especially in top performing regions and regions to encourage boosting of product sales.
+-More Amazon offices should be created especially in top-performing regions and regions to encourage boosting of product sales.
 
-Data visualisation tool used 
+Data visualization tool 
 Microsoft Excel 
