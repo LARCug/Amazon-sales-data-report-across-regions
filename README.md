@@ -13,7 +13,7 @@ KEY INSIGHTS
 
 -On regional sales,The Sub-saharan Africa part generated the most profit amounting to $12,183,211 of sales amounting to $39,672,032 while the North-America region performed the least with a profit of $1,457,953 of sales amounting to $5,643,357.
 
-- Most of the customers preferred purchasing via the offline route to the online route.The offline channel generated 58% of their revenue generated as against the 42% generated through the online channel.
+-Most of the customers preferred purchasing via the offline route to the online route.The offline channel generated 58% of their revenue generated as against the 42% generated through the online channel.
 
 -Country wise,Honduras generated more sales generating $6,336,545 in revenue while Kuwait made very poor sales generating $4870 in revenue 
 
