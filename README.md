@@ -10,9 +10,16 @@ The aim here is track sales trend across regions and countries to stockouts and 
 
 KEY INSIGHTS 
 
+![image](https://github.com/user-attachments/assets/ca5c94da-5d62-4995-966a-c9a8b2a7f435)
+
 -The product generating the most revenue is the Cosmetics with the sum of $36,601,520 and a profit of $14,556,048 while the least performing product is the fruit generating a profit of $120,495 with a total of $466,481. 
 
+![image](https://github.com/user-attachments/assets/a636b034-c95b-41d8-9d65-a08adddb85a4)
+
 -On regional sales,The Sub-saharan Africa part generated the most profit amounting to $12,183,211 of sales amounting to $39,672,032 while the North-America region performed the least with a profit of $1,457,953 of sales amounting to $5,643,357.
+
+![Uploading image.png…]()
+
 
 -Most of the customers preferred purchasing via the offline route to the online route.The offline channel generated 58% of their revenue generated as against the 42% generated through the online channel.
 
