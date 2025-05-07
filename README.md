@@ -33,8 +33,7 @@ Sales distribution across countries
 -Country wise,Honduras generated more sales generating $6,336,545 in revenue while Kuwait made very poor sales generating $4870 in revenue 
 
 RECOMMENDATIONS 
-
-- All products performing well in various regions should always be in stock especially in countries were they have peaks sales.
+-All products performing well in various regions should always be in stock especially in countries were they have peaks sales.
 
 -Whichever channel preferences in various regions and countries should effortlessly be made available to avoid losing customers to market competitors 
 
