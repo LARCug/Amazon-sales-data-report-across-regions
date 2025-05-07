@@ -18,8 +18,6 @@ KEY INSIGHTS
 
 -Country wise,Honduras generated more sales generating $6,336,545 in revenue while Kuwait made very poor sales generating $4870 in revenue 
 
--The mostly purchased products in the Sub-saharan Africa, European region,Asia, Middle East and North America and in Australia and Oceania are the office supplies, Cosmetics,household items, cosmetics and cosmetics respectively.
-
 RECOMMENDATIONS 
 
 - All products performing well in various regions should always be in stock especially in countries were they have peaks sales.
@@ -32,4 +30,4 @@ RECOMMENDATIONS
 
 Data visualization tool 
 Microsoft Excel 
-contact me via ugonnaozorikeji@gmail.com for more enquiries and engagements
+
